@@ -1,0 +1,84 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    color:#3d3d3d;
+}
+.logo, h1, figcaption {
+    text-align:center;
+}
+.logo img{
+ height:60px;
+}
+
+.sublogo{
+    background-color:#FEFAF0;
+    border-top:2px solid #EFE6C3;
+    color: #123C40;
+    text-align:center;
+    padding:1px;
+    margin-left:-8px;
+    margin-right:-8px;
+    font-size:14px;
+}
+.testo{
+    display:inline-block;
+    margin-top:0px;
+    margin-left:550px;
+    margin-right:530px;
+    font-size:20px;
+    color:#3d3d3d
+    }
+.focaccia{
+    width:800px;
+    display:inline-block;
+    margin-left:550px;
+    margin-right:550px;
+    border-radius:10px;
+    
+}
+figcaption{
+    color:rgb(179, 178, 178);
+    font-size:18px;
+    padding:8px;
+}
+.feature{
+    display:inline-block;
+    margin-left:555px;
+    border-left: solid 2px #EFE6C3;
+    height:70px;
+    padding-left:20px;
+    color: #A76345;
+    font-size:18px;
+    
+    
+}
+main{
+    display:inline-block;
+    margin-left:550px;
+    margin-right:500px;
+    padding-top:50px;
+    font-size:20px;
+}
+main h2{
+    border-bottom: 2px solid #d6e9fa;
+    width:800px;
+    padding-bottom:20px;
+}
+main li{
+    padding:10px;
+}
+footer ol{
+    display:inline-block;
+    margin-left:560px;
+    margin-bottom:5px;
+    
+}
+footer p{
+    display:inline-block;
+    margin-left:600px;
+    margin-right:530px;
+    font-size:18px;
+}
+.more {
+    display:inline-block;
+    margin-left:550px;
+}
